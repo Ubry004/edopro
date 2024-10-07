@@ -44,3 +44,14 @@ premake5.exe
 !/irrlicht/premake5.lua
 !/irrlicht/defines.lua
 bundled_font.cpp
+/upx.exe
+/NotoSansJP-Regular.otf
+/premake5.pdb
+/luasocket.pdb
+/example.dll
+/example.exp
+/example.lib
+/example.pdb
+/luasocket.dll
+/luasocket.exp
+/luasocket.lib
